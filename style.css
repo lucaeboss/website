@@ -1,0 +1,68 @@
+/* General styles */
+body {
+    background-color: #450808;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Navigation bar styles */
+  nav {
+    background-color: #231e4e;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Homepage styles */
+  header {
+    background-color: #4238d2;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main p {
+    color: #455332;
+  }
+  
+  /* About Me page styles */
+  h1 {
+    color: #007bff;
+  }
+  
+  p1 {
+    color: #888;
+  }
+  p2 {
+    color: #882f2f;
+  }
+  
+  /* Contact Me page styles */
+  form label {
+    color: #d81717;
+  }
+  
+
+
+input[type="text"],
+input[type="email"],
+textarea {
+    color: rgb(41, 44, 4);
+}
+
+button {
+    color: rgb(0, 136, 255);
+}
